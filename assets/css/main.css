@@ -1589,10 +1589,10 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Lato", sans-serif;
+		font-family: "Source Sans Pro", sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
-		line-height: 2;
+		line-height: 1.5;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -1656,7 +1656,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
