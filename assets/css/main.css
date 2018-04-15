@@ -2572,12 +2572,12 @@
 	}
 
 	table {
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 		width: 100%;
 	}
 
 		table tbody tr {
-			border: solid 1px;
+			/*border: solid 1px;*/
 			border-left: 0;
 			border-right: 0;
 		}
@@ -3956,3 +3956,9 @@
 			}
 
 		}
+table.indextable{
+width: 100%
+}
+table.indextable td {
+	padding-right:20px;
+}
