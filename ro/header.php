@@ -9,7 +9,7 @@
 						<a href="law.php">Legisla&#355;ie</a>
 						<a href="detectiv-focsani.php">Contact</a>
 						<!--a href="../ro/index.html" style="padding: 0 0;"><img src="../images/lang_ro.gif"/></a-->
-						<a href="../en/index.html" style="padding: 0 0;"><img src="../images/lang_en.gif"/></a>
+						<a href="../en/index.html" style="padding: 0 0;"><img src="../images/lang_en.gif" alt="English"/></a>
 					</nav><br/>
 						
 				</div>

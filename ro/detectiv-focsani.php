@@ -15,10 +15,9 @@
 
 		<!-- Banner -->
 			<section id="banner" style="background-image: url('../images/f5.jpg'); background-size:100%;min-height: 800px">
-				<div class="inner">
-					<h1>Cabinet Individual de Detectivi Particulari: <span><br />Informa&#355;ie
-					de calitate, furnizat&#259; rapid &#537;i discret</span></h1>
-				</div>
+				<?php
+				require( dirname(__FILE__) . '/slogan.php' );
+				?>
 			<!--/section-->
 
 		<!-- One -->
@@ -28,9 +27,10 @@
 						<h2>Contact</h2>
 					</header>
 					<p>
-					<span style="color:#fff">Adresa: Focșani, bd. București, nr. 76<br/>Telefon/fax: 0337.401.901<br/>
-					Mobil: 0799.66.07.88<br/>
+					<span style="color:#fff">Adresa: Focșani, bd. București, nr. 76<br/>Telefon/fax: +40 337.401.901<br/>
+					Mobil: +40 799.660.788<br/>
 					eMail: office@detectivluke.ro<br/>
+					<img src="../images/qrcode_detectiv.png" alt="contact info"/>
 					<!--Adresa: Focsani, blvd Bucuresti nr 007<br/>
 					Email: adresa@numedomeniu.ro--></span></p>
 				</div>

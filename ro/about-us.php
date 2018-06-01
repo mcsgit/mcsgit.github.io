@@ -19,10 +19,9 @@
 
 		<!-- Banner -->
 			<section id="banner" style="background-image: url('../images/f3.jpg'); background-size:100%;min-height: 800px">
-				<div class="inner">
-					<h1>Cabinet Individual de Detectivi Particulari: <span><br />Informa&#355;ie
-					de calitate, furnizat&#259; rapid &#537;i discret</span></h1>
-				</div>
+				<?php
+				require( dirname(__FILE__) . '/slogan.php' );
+				?>
 
 		<!-- One -->
 				<div class="inner" style="color:#fff">

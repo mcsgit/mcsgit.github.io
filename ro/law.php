@@ -20,10 +20,9 @@
 
 		<!-- Banner -->
 			<section id="banner">
-				<div class="inner">
-					<h1>Cabinet Individual de Detectivi Particulari: <span><br />Informa&#355;ie
-					de calitate, furnizat&#259; rapid &#537;i discret</span></h1>
-				</div>
+				<?php
+				require( dirname(__FILE__) . '/slogan.php' );
+				?>
 			</section>
 
 		<!-- One -->
